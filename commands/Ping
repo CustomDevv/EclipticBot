@@ -1,0 +1,23 @@
+{
+  "name": "ping",
+  "permissions": "NONE",
+  "restriction": "1",
+  "_id": "dxdsW",
+  "actions": [
+    {
+      "info": "2",
+      "storage": "1",
+      "varName2": "pi",
+      "name": "Store Bot Client Info"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "the ping is ${tempVars(\"pi\")}",
+      "storage": "0",
+      "varName2": "",
+      "name": "Send Message"
+    }
+  ],
+  "comType": "0"
+}
