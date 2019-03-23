@@ -1,0 +1,184 @@
+{
+  "name": "troll",
+  "permissions": "NONE",
+  "restriction": "1",
+  "_id": "gIxUj",
+  "actions": [
+    {
+      "storage": "0",
+      "varName": "",
+      "name": "Delete Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "This server has been hacked",
+      "storage": "1",
+      "varName2": "msg",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "4",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "msg",
+      "message": "The Server will be deleted in... **10**",
+      "storage2": "1",
+      "varName2": "msg",
+      "name": "Edit Message"
+    },
+    {
+      "time": "1",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "msg",
+      "message": "The Server will be deleted in... **9**",
+      "storage2": "1",
+      "varName2": "msg",
+      "name": "Edit Message"
+    },
+    {
+      "time": "1",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "msg",
+      "message": "The Server will be deleted in... **8**",
+      "storage2": "1",
+      "varName2": "msg",
+      "name": "Edit Message"
+    },
+    {
+      "time": "1",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "msg",
+      "message": "The Server will be deleted in... **7**",
+      "storage2": "1",
+      "varName2": "msg",
+      "name": "Edit Message"
+    },
+    {
+      "time": "1",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "msg",
+      "message": "The Server will be deleted in... **6**",
+      "storage2": "1",
+      "varName2": "msg",
+      "name": "Edit Message"
+    },
+    {
+      "time": "1",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "msg",
+      "message": "The Server will be deleted in... **5**",
+      "storage2": "1",
+      "varName2": "msg",
+      "name": "Edit Message"
+    },
+    {
+      "time": "1",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "msg",
+      "message": "The Server will be deleted in... **4**",
+      "storage2": "1",
+      "varName2": "msg",
+      "name": "Edit Message"
+    },
+    {
+      "time": "1",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "msg",
+      "message": "The Server will be deleted in... **3**",
+      "storage2": "1",
+      "varName2": "msg",
+      "name": "Edit Message"
+    },
+    {
+      "time": "1",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "msg",
+      "message": "The Server will be deleted in... **2**",
+      "storage2": "1",
+      "varName2": "msg",
+      "name": "Edit Message"
+    },
+    {
+      "time": "1",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "msg",
+      "message": "The Server will be deleted in... **1**",
+      "storage2": "1",
+      "varName2": "msg",
+      "name": "Edit Message"
+    },
+    {
+      "time": "1",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "msg",
+      "name": "Delete Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "TROLOLOLOLOLOLOLOLOOOOOOOOOOOO",
+      "storage": "1",
+      "varName2": "msg1",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
+    },
+    {
+      "time": "5",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "storage": "1",
+      "varName": "msg1",
+      "name": "Delete Message"
+    }
+  ],
+  "comType": "0"
+}
