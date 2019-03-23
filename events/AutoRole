@@ -1,0 +1,22 @@
+{
+  "name": "AutoRole",
+  "temp": "member",
+  "event-type": "6",
+  "_id": "XxvjW",
+  "actions": [
+    {
+      "info": "1",
+      "find": "I am a role name.",
+      "storage": "1",
+      "varName": "role",
+      "name": "Find Role"
+    },
+    {
+      "member": "2",
+      "varName2": "member",
+      "role": "3",
+      "varName": "role",
+      "name": "Add Member Role"
+    }
+  ]
+}
