@@ -1,0 +1,40 @@
+{
+  "name": "setup",
+  "permissions": "NONE",
+  "restriction": "1",
+  "actions": [
+    {
+      "channelName": "ECLIPTIC BOT",
+      "topic": "THIS IS THE ECLIPTIC BOT TEXT CHANNEL",
+      "position": "",
+      "storage": "1",
+      "varName": "ch1",
+      "name": "Create Text Channel"
+    },
+    {
+      "channelName": "ECLIPTIC BOT TALK",
+      "bitrate": "",
+      "userLimit": "",
+      "storage": "0",
+      "varName": "",
+      "name": "Create Voice Channel"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "```\nSETUP COMPLETE\n```",
+      "storage": "0",
+      "varName2": "",
+      "name": "Send Message"
+    },
+    {
+      "channel": "5",
+      "varName": "ch1",
+      "message": "```\nWELCOME TO ECLIPTIC BOT CHAT\n```",
+      "storage": "0",
+      "varName2": "",
+      "name": "Send Message"
+    }
+  ],
+  "_id": "Dksxd"
+}
